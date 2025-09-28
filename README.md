@@ -133,6 +133,14 @@ For a detailed explanation of the methodology, evaluation, and conclusions, refe
 
 ---
 
+## Team & Credits
+
+* **Project Lead**: Tejas Solanki
+* **Contributors**: Tejas Solanki, Sonu Kumar, Nirgun Joshi, Rupak Lipane, Rony Varghese
+* **Special Thanks**: Open source libraries (Yahoo Finance, pandas, scikit-learn, TensorFlow, Streamlit, etc.)
+
+---
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -142,4 +150,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Conclusion
 
 This GitHub repository showcases a **Fraud Detection Model** designed to identify fraudulent financial transactions. The project provides valuable insights into working with imbalanced datasets and applying machine learning algorithms in real-world applications. Future improvements will focus on enhancing model performance by addressing class imbalance and experimenting with more advanced techniques.
-
